@@ -1,3 +1,6 @@
+# Reading GPS reading on Terminal.
+# Author Tahmoor Naeem
+
 import os
 from gps import *
 from time import *
